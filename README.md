@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi, I’m Khyaati Khanna! I'm currently a student at the University of Houston studying Computer Science with a minor in Mathematics and Business Administration. I have experience programming with C++/C, Java, JavaScript, HTML, and CSS. Feel free to reach out to me on Instagram @khushiii.khanna or connect with me on LinkedIn! http://www.linkedin.com/in/khyaati-khanna/
+
 <!--
 **Khannakhushi/Khannakhushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
