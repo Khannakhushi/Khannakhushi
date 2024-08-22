@@ -18,7 +18,7 @@
 
 **🙌 Let's Connect:**
 
-- ✉️ Reach out to me on linkedin.com/in/khyaati-khanna/ to see more of what I'm working on!
+- ✉️ Reach out to me on http://www.linkedin.com/in/khyaati-khanna/ or email me at khannakhyaati@gmail.com to see more of what I'm working on!
 - 💜 Let's collaborate and create something awesome together!
 
 <!--
