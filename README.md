@@ -9,7 +9,7 @@
 **💻 Tech Stack:**
 
 - 📚 Languages: C++, Java, JavaScript, HTML/CSS, Typescript
-- 🛠️ Tools and Frameworks: React.js, Next.js, Spring Boot, Angular, Git, Docker, CI/CD GitLab Pipeline, TailwindCSS
+- 🛠️ Tools and Frameworks: React.js, Next.js, Spring Boot, Angular, Git, Docker, CI/CD GitLab Pipeline, TailwindCSS, Xcode, IntelliJ, VS Code
 
 **🚀 Projects:**
 
